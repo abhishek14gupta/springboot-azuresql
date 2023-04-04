@@ -48,6 +48,10 @@ public class Employee {
 		this.dept = dept;
 		this.salary = salary;
 	}
+	public Employee() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
     
     
 }
